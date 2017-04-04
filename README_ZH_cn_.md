@@ -1,5 +1,5 @@
 <a name="a-minimal-ubuntu-base-image-modified-for-docker-friendliness"></a>
-# Docker友好的，最小的Ubuntu基础镜像
+# Docker 友好的最精简的Ubuntu基础镜像
 
 Baseimage-docker是一个特殊的[Docker](http://www.docker.io)镜像，在Docker容器内做了配置，并且可以正确使用。它确实是一个Ubuntu系统, 除此之外进行了如下修订：
 
